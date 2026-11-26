@@ -12,13 +12,6 @@ Safari) on macOS, Windows or Linux.
 
 HOW TO OPEN IT
 --------------
-Mac app:  The Mac app (next to this folder) is a self-contained
-          Mac app with the whole manual inside it. Double-click it; nothing else
-          is needed (no Python, no browser). It runs on Apple-silicon Macs with
-          macOS 12 or later. Drag it to Applications if you like. The first time,
-          if macOS says it cannot check the app, right-click it and choose Open.
-          Menus: File > New Window / Print / Open Page in Browser,
-          View > Zoom In / Zoom Out, Go > Back / Forward / Start Page.
 
 Mac:      double-click "Start Manual (Mac).command"
 Windows:  double-click "Start Manual (Windows).bat"
