@@ -1,6 +1,6 @@
 # **Electronic Technical Manual – English Edition**
 
-**Source:** Maintenance CD pair SC0553J (Blade, 2006–2012: AZE154H / AZE156H / GRE156H), covering the 2006/12, 2007/08, 2008/10 and 2009/12 releases.
+Maintenance CD pair SC0553J (Blade, 2006–2012: AZE154H / AZE156H / GRE156H), covering the 2006/12, 2007/08, 2008/10 and 2009/12 releases.
 
 This repo contains a modernised, English copy of both CDs. The original CDs required Windows XP, Internet Explorer 6, a Japanese system locale, Adobe SVG Viewer and Flash Player 7.
 
