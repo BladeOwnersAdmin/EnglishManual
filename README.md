@@ -6,6 +6,67 @@ This repo contains a modernised, English copy of both CDs. The original CDs requ
 
 This edition runs in any current browser (Chrome, Edge, Firefox, Safari) on macOS, Windows or Linux.
 
+## **Downloads**
+
+There are two ways to get the manual onto your computer. Both need [Python 3](https://www.python.org/downloads/) to run it (preinstalled on most Macs; on Windows, tick **Add python.exe to PATH** when installing). The download is about 900 MB.
+
+### **Method 1: Download the package from the Releases tab**
+
+The simplest option; no extra software needed.
+
+1. Open the [**Releases**](https://github.com/BladeOwnersAdmin/EnglishManual/releases) tab of this repository (also linked on the right-hand side of the main page).
+2. Under the latest release, download the `.zip` package from **Assets**.
+3. Unzip it to a folder of your choice.
+4. Open the unzipped folder and start the manual for your system (see **How to Open It** below).
+
+To get a newer version later, download and unzip the latest release again.
+
+### **Method 2: Clone the repository with Git (ideal for future updates)**
+
+Cloning copies the repository to your computer with [Git](https://git-scm.com/downloads). Later updates are then a single command instead of a fresh download.
+
+#### **macOS**
+
+Open **Terminal** and run:
+
+```bash
+git clone https://github.com/BladeOwnersAdmin/EnglishManual.git
+cd EnglishManual
+./"Start Manual (Mac).command"
+```
+
+Next time you can just double-click `Start Manual (Mac).command` in the `EnglishManual` folder.
+
+#### **Windows**
+
+Open **Command Prompt** and run:
+
+```bat
+git clone https://github.com/BladeOwnersAdmin/EnglishManual.git
+cd EnglishManual
+"Start Manual (Windows).bat"
+```
+
+Next time you can just double-click `Start Manual (Windows).bat` in the `EnglishManual` folder.
+
+#### **Linux**
+
+Open a terminal and run:
+
+```bash
+git clone https://github.com/BladeOwnersAdmin/EnglishManual.git
+cd EnglishManual
+python3 serve.py
+```
+
+#### **Updating a cloned copy**
+
+To get the latest version, open a terminal in the `EnglishManual` folder and run:
+
+```bash
+git pull
+```
+
 ## **How to Open It**
 
 | Platform      | How to launch                             |
